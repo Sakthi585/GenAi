@@ -1,1 +1,1 @@
-# Edhachum adichu viduley
+#Gen AI pratical session
