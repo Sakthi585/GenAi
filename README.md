@@ -1,1 +1,1 @@
-#Gen AI pratical session
+# Gen AI pratical session
